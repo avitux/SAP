@@ -1,2 +1,0 @@
-Code	Name	Type
-GroupCode	GroupName	GroupType
