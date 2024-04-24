@@ -1,0 +1,868 @@
+County,Town
+Antrim,Abbeydorney
+Armagh,Abbeyfeale
+Carlow,Abbeyknockmoy
+Cavan,Abbeyleix
+Clare,Adamstown
+Cork,Adare
+Donegal,Aghada - Rostellan
+Down,Aglish
+Dublin,Ahascragh
+Fermanagh,Ailt an Chorráin (Burtonport)
+Galway,Allenwood
+Kerry,Anagaire (Annagry)
+Kildare,An Bun Beag (Bunbeg)
+Kilkenny,An Charraig (Carrick)
+Laois,An Cheathrú Rua (Carraroe)
+Leitrim,An Clochán Liath (Dungloe)
+Limerick,"An Fál Carrach (Falcarragh, Cross Roads)"
+Londonderry,Annacotty
+Longford,Annagassan
+Louth,Annaghdown
+Mayo,Annascaul
+Meath,Annayalla (Annyalla)
+Monaghan,An Rinn (Ring)
+Offaly,An Spidéal (Spiddle)
+Roscommon,Ardagh
+Sligo,Ardara
+Tipperary,Ardee
+Tyrone,Ardfert
+Waterford,Ardfinnan
+Westmeath,Ardmore
+Wexford,Ardnacrusha (Castlebank)
+Wicklow,Arklow
+,Arthurstown
+,Arvagh (Arva)
+,Ashbourne
+,Ashford
+,Askeaton
+,Athboy
+,Athea
+,Athenry
+,Athgarvan
+,Athleague
+,Athlone
+,Athy
+,Aughnacliffe
+,Aughrim
+,Avoca
+,Baile Chláir (Claregalway)
+,Baile Mhic Íre (Ballymakeery)
+,Bailieborough
+,Balbriggan
+,Balla
+,Ballaghaderreen
+,Ballina
+,Ballina
+,Ballinabrannagh (Ballinabranna)
+,Ballinaclash
+,Ballinagar
+,Ballinagh
+,Ballinakill
+,Ballinalack
+,Ballinalee
+,Ballinameen
+,Ballinamore
+,Ballinasloe
+,Ballincar
+,Ballinderreen
+,Ballindine
+,Ballindrait (Baile an Droichid)
+,Ballineen - Enniskean
+,Ballingarry
+,Ballingarry
+,Ballinlough
+,Ballinroad
+,Ballinrobe
+,Ballinspittle
+,Ballintober
+,Ballintogher
+,Ballintra
+,Ballitore (Ballytore)
+,Ballivor
+,Ballon
+,Ballyagran
+,Ballybay
+,Ballybofey - Stranorlar
+,Ballyboghil (Ballyboughal)
+,Ballybrittas
+,Ballybunion
+,Ballycanew
+,Ballycannan
+,Ballycastle
+,Ballyclerahan
+,Ballyclogh
+,Ballycolla
+,Ballyconnell
+,Ballycotton
+,Ballycullane
+,Ballycumber
+,Ballydehob
+,Ballydesmond
+,Ballyduff
+,Ballyforan
+,Ballygar
+,Ballygarvan
+,Ballygawley
+,Ballyhack
+,Ballyhahill
+,Ballyhaise
+,Ballyhale
+,Ballyhaunis
+,Ballyheigue
+,Ballyhogue
+,Ballyhooly
+,Ballyjamesduff
+,Ballyknockan
+,Ballylanders
+,Ballyliffin
+,Ballylinan
+,Ballylongford
+,Ballymacarbry
+,Ballymacoda
+,Ballymahon
+,Ballymore
+,Ballymore Eustace
+,Ballymote
+,Ballymurn
+,Ballynacargy
+,Ballynacarrow (Ballinacarrow)
+,Ballyneety (Glen)
+,Ballynoe
+,Ballyoulster
+,Ballyporeen
+,Ballyragget
+,Ballyroan
+,Ballyroe
+,Ballysadare (Ballisodare)
+,Ballyshannon
+,Ballysimon
+,Ballyvaughan
+,Balrothery
+,Baltimore
+,Baltinglass
+,Baltray
+,Banagher
+,Bandon
+,Bangor Erris
+,Bansha
+,Banteer
+,Bantry
+,Barndarrig
+,Barntown
+,Baylin
+,Béal an Mhuirthead (Belmullet)
+,Béal Átha an Ghaorthaidh (Ballingeary)
+,Bearna
+,Beaufort
+,Beaulieu
+,Belcarra
+,Belgooly
+,Bellanagare
+,Bellanode (Ballinode)
+,Bellavary
+,Belmont
+,Belturbet
+,Bennettsbridge
+,Birr
+,Blacklion
+,Blackwater (Castle Ellis)
+,Blarney
+,Blessington
+,Boherbue
+,Boherlahan
+,Bohola
+,Bonniconlon (Bunnyconnelan)
+,Borris
+,Borris-in-Ossory
+,Borrisokane
+,Borrisoleigh
+,Boyle
+,Bracknagh
+,Bray
+,Bree
+,Bridebridge
+,Bridge End
+,Bridgetown
+,Brittas
+,Broadford (Ardskeagh)
+,Broadford
+,Brosna
+,Brownstown (Curragh Camp)
+,Bruff
+,Bruree
+,Bunclody
+,Buncrana
+,Bundoran
+,Bun na Leaca (Brinlack)
+,Bunratty
+,Burnfoot
+,Butlersbridge
+,Buttevant
+,Bweeng
+,Caherconlish
+,Cahir
+,Cahirciveen (Cahersiveen)
+,Callan
+,Calverstown
+,Camolin
+,Campile
+,Cappamore
+,Cappawhite
+,Cappoquin
+,Carlanstown
+,Carlingford
+,Carlow
+,Carndonagh
+,Carnew
+,Carney
+,Carragh
+,Carraig Airt
+,Carrickmacross
+,Carrick-on-Shannon
+,Carrick-on-Suir
+,Carrigaline
+,Carrigallen
+,Carrigans
+,Carrigkerry
+,Carrignavar
+,Carrig-on-Bannow (Danescastle)
+,Carrigtwohill
+,Carrowkeel (Kerrykeel)
+,Cashel
+,Castlebar
+,Castlebellingham - Kilsaran
+,Castleblayney
+,Castlebridge - Blackwater
+,Castlecomer
+,Castleconnell
+,Castledermot
+,Castlefin (Castlefinn)
+,Castlegregory
+,Castleisland
+,Castlelyons
+,Castlemagner
+,Castlemaine
+,Castlemartyr
+,Castlepollard
+,Castlerea
+,Castletown
+,Castletownbere
+,Castletown Geoghegan
+,Castletownroche
+,Castletownshend (Castletownsend)
+,Causeway
+,Cavan
+,Celbridge
+,Charlestown - Bellahy
+,Charleville (Rathluirc)
+,Cheekpoint
+,Churchtown
+,Cill Charthaigh (Kilcar)
+,Cill Rónáin (Kilronan)
+,Clane
+,Clara
+,Claremorris
+,Clarina
+,Clarinbridge
+,Clashmore
+,Clifden
+,Cliffoney (Cliffony)
+,Clogh
+,Cloghan
+,Clogheen
+,Clogherhead
+,Cloghfin
+,Clonakilty
+,Clonard
+,Clonaslee
+,Clonbullogue
+,Clondrohid
+,Clondulane
+,Clonee
+,Clonegal (Clonegall)
+,Clones
+,Clongeen
+,Clonlara
+,Clonmany
+,Clonmel
+,Clonmellon
+,Clonroche
+,Clontibret
+,Clonygowan
+,Cloonfad
+,Cloontuskert (Clontuskert)
+,Cloughduv
+,Cloughjordan
+,Cloyne
+,Cluain Bú (Cloonboo)
+,Coachford
+,Cobh
+,Coill Dubh (Blackwood)
+,Collinstown
+,Collon
+,Collooney
+,Conna
+,Convoy
+,Coolaney
+,Coolboy
+,Coolgreany
+,Cootehall
+,Cootehill
+,Cork
+,Corofin
+,Corrandulla
+,Corrofin
+,Courtbrack
+,Courtmacsherry
+,Courtown
+,Cratloe
+,Craughwell
+,Creeslough
+,Crinkill (Crinkle)
+,Cromane
+,Crookstown
+,Croom
+,Crossakeel (Crossakiel)
+,Crossbarry
+,Crosshaven - Churchbay
+,Crossmolina
+,Crusheen
+,Culdaff
+,Cut Bush (Ballysax)
+,Daingean
+,Delvin
+,Derrinturn
+,Dingle (Daingean Uí Chúis)
+,Doirí Beaga (Derrybeg)
+,Donabate
+,Donard
+,Donaskeigh
+,Donegal
+,Doneraile
+,Donore
+,Doohamlat (Doohamlet)
+,Doohooma (Dumha Thuama)
+,Doon
+,Doonbeg
+,Drangan
+,Drimoleague
+,Drogheda
+,Dromahair
+,Dromina
+,Dromineer
+,Dromiskin
+,Drommahane
+,Dromore West
+,Drumcollogher
+,Drumconrath
+,Drumkeen
+,Drumkeeran
+,Drumlish
+,Drumod
+,Drumshanbo
+,Drumsna
+,Duagh
+,Dublin (Baile Átha Cliath)
+,Duleek
+,Dunboyne
+,Duncannon
+,Duncormick
+,Dundalk
+,Dunderrow
+,Dundrum
+,Dunfanaghy
+,Dungarvan
+,Dunhill
+,Dunkineely
+,Dunlavin
+,Dunleer
+,Dunmanway
+,Dunmore
+,Dunmore East
+,Dunshaughlin
+,Durrow
+,Durrus
+,Easky
+,Edenderry
+,Edgeworthstown (Meathas Truim)
+,Elphin
+,Emly
+,Emo
+,Emyvale
+,Enfield
+,Ennis
+,Enniscorthy
+,Enniscrone (Inniscrone)
+,Enniskerry
+,Ennistymon (Ennistimon)
+,Errill (Erril)
+,Eyrecourt
+,Fahan
+,Farran
+,Feakle
+,Fedamore
+,Fenit
+,Fennagh
+,Ferbane
+,Fermoy
+,Ferns
+,Fethard
+,Fethard-on-Sea
+,Fiddown
+,Fieries
+,Foxford
+,Foynes
+,Freemount
+,Frenchpark
+,Freshford
+,Galbally
+,Galway
+,Garristown
+,Geashill
+,Glanworth
+,Glassan
+,Glasslough (Glaslough)
+,Gleann Cholm Cille
+,Glenamaddy
+,Glenbeigh
+,Glencullen
+,Glenealy
+,Gleneely
+,Glengarriff
+,Glenties
+,Glenville
+,Glin
+,Gneevgullia
+,Gob an Choire (Achill Sound)
+,Golden
+,Goresbridge
+,Gorey
+,Gormanston
+,Gort
+,Gort an Choirce (Gortahork)
+,Gortnahoo (Gortnahoe)
+,Gowran
+,Graiguenamanagh - Tinnahinch
+,Granard
+,Grange
+,Grangemore (Brannockstown)
+,Greencastle
+,Grenagh
+,Greystones - Delgany
+,Gurteen (Gorteen)
+,Hacketstown
+,Halfway
+,Headford
+,Holycross
+,Hospital
+,Inagh
+,Inchigeelagh
+,Inistioge
+,Innishannon (Inishannon)
+,Inniskeen
+,Irishtown
+,Jenkinstown
+,Johnstown
+,Johnstown
+,Johnstownbridge
+,Julianstown
+,Kanturk
+,Keadew
+,Keel - Dooagh
+,Keenagh
+,Kells
+,Kells (Ceannanus Mór)
+,Kenmare
+,Kentstown
+,Kernanstown
+,Keshcarrigan
+,Kilbeggan
+,Kilberry
+,Kilbrin
+,Kilbrittain
+,Kilcloon
+,Kilcock
+,Kilcolgan
+,Kilcoole
+,Kilcormac (Frankford)
+,Kilcullen
+,Kilcummin
+,Kildalkey
+,Kildangan
+,Kildare
+,Kildavin
+,Kildimo
+,Kildorrery
+,Kildrum
+,Kildysart
+,Kilfenora
+,Kilfinane (Kilfinnane)
+,Kilflynn
+,Kilgarvan
+,Kilkee
+,Kilkelly
+,Kilkenny
+,Kilkishen
+,Kill
+,Kill
+,Killala
+,Killaloe
+,Killarney
+,Killashee
+,Killavullen
+,Killeagh
+,Killeigh
+,Killenard
+,Killenaule
+,Killeshandra
+,Killimor
+,Killinierin
+,Killorglin
+,Killucan - Rathwire
+,Killumney
+,Killurin
+,Killurin
+,Killybegs
+,Killygordon (Killygordan)
+,Kilmacanogue
+,Kilmacow
+,Kilmacrennan
+,Kilmacthomas
+,Kilmaine
+,Kilmainhamwood
+,Kilmaley
+,Kilmallock
+,Kilmead (Kilmeade)
+,Kilmeaden
+,Kilmeage
+,Kilmessan
+,Kilmihil (Kilmihill)
+,Kilmoganny
+,Kilmore
+,Kilmore Quay
+,Kilmuckridge (Kilmuckeridge)
+,Kilmurry (Ballymulcashel)
+,Kilnaleck
+,Kilpedder
+,Kilrush
+,Kilsheelan
+,Kilteel
+,Kilteely
+,Kiltimagh
+,Kilworth
+,Kingscourt
+,Kinlough
+,Kinnegad
+,Kinnitty
+,Kinsale
+,Kinsaley
+,Kinsealy - Drinan
+,Kinvara (Kinvarra)
+,Knightstown
+,Knock
+,Knockananna
+,Knockbridge
+,Knockcroghery
+,Knocklong
+,Knocknagree
+,Knockraha
+,Knocktopher
+,Lackaghbeg (Lackagh)
+,Ladysbridge (Knockglass)
+,Ladytown (Two Mile House)
+,Laghy
+,Lahardane
+,Lahinch (Lehinch)
+,Lanesborough - Ballyleague
+,Laragh
+,Laytown - Bettystown - Mornington - Donacarney
+,Leap
+,Legan
+,Leighlinbridge
+,Leitrim
+,Leixlip
+,Lemybrien
+,Letterkenny
+,Lifford
+,Limerick
+,Liscannor
+,Liscarroll
+,Lisdoonvarna
+,Lismore
+,Lisronagh
+,Lissycasey
+,Listowel
+,Littleton
+,Lixnaw
+,Loch an Iúir (Loughanure)
+,Longford
+,Longwood
+,Lordship (Rampark)
+,Loughglinn
+,Lough Gowna (Loch Gowna)
+,Loughrea
+,Loughshinny
+,Louisburgh
+,Louth
+,Lusk
+,Lyre
+,Macroom
+,Maigh Cuilinn (Moycullen)
+,Malahide
+,Malin
+,Mallow
+,Manorcunningham
+,Manorhamilton
+,Manor Kilbride
+,Maynooth
+,Midleton
+,Milford
+,Milford
+,Millstreet
+,Milltown
+,Milltown
+,Milltown
+,Miltown Malbay
+,Mín Lárach (Meenlaragh)
+,Mitchelstown
+,Moate
+,Model Village (Dripsey)
+,Mogeely
+,Mohill
+,Monaghan
+,Monamolin (incl. Ballyedmond)
+,Monard
+,Monasterevin
+,Moneenroe
+,Moneygall
+,Monivea
+,Mooncoin
+,Moroe
+,Mountbellew
+,Mountcharles
+,Mountcollins
+,Mountmellick
+,Mountrath
+,Mountshannon
+,Moville
+,Moylough
+,Mucklagh
+,Muff
+,Muinebeag (Bagenalstown)
+,Mullagh
+,Mullaghmore
+,Mullinahone
+,Mullinavat
+,Mullingar
+,Mulranny
+,Multyfarnham
+,Mungret
+,Murntown (Murrintown)
+,Myrtleville (incl. Fountainstown)
+,Myshall
+,Naas
+,"Na Dúnaibh (Crocknamurleog, Cnoc na Muirleog)"
+,Na Forbacha (Furbogh)
+,Narraghmore
+,Naul
+,Navan (An Uaimh)
+,Nenagh
+,Newbawn
+,Newbliss
+,Newbridge (Droichead Nua)
+,Newcastle
+,Newcastle
+,Newcastle
+,Newcastle West
+,Newmarket
+,Newmarket-on-Fergus
+,Newport
+,Newport
+,New Ross
+,Newtown
+,Newtown (Newtownshandrum)
+,Newtown
+,Newtowncunningham
+,Newtownforbes
+,Newtownmountkennedy
+,Newtownsandes (Moyvane)
+,Nobber
+,Nurney
+,O'Briensbridge - Montpelier
+,Oilgate (Oylegate)
+,Oldcastle
+,Oldtown
+,Omeath
+,Oola
+,Oram
+,Oranmore
+,Oughterard
+,Oulart
+,Palatine
+,Pallasgreen (Pallas Grean)
+,Pallaskenry
+,Parteen
+,Passage East
+,Passage West - Monkstown
+,Patrickswell
+,Paulstown
+,Pettigo (Irish part)
+,Piercetown
+,Piltown
+,Pollagh
+,Portarlington
+,Portlaoise (Maryborough)
+,Portlaw
+,Portmagee
+,Portmarnock
+,Portrane
+,Portroe
+,Portumna
+,Prosperous
+,Puckaun
+,Quigleys Point
+,Quilty
+,Quin
+,Raharney
+,Ramelton
+,Rann na Feirste (Ranafast)
+,Raphoe
+,Rathangan
+,Rathard - Aherla
+,Rathcoffey
+,Rathcoole
+,Rathcoole
+,Rathcormac
+,Rathdowney
+,Rathdrum
+,Rathkeale
+,Rathmolyon
+,Rathmore
+,Rathmullan (Rathmullen)
+,Rathnew
+,Rathowen
+,Rathtoe
+,Rathvilly
+,Ratoath
+,Rear Cross (Reardnogy)
+,Redcross
+,Rhode
+,Ringaskiddy - Loughbeg
+,Rivermeade
+,Riverstick
+,Riverstown
+,Robertstown
+,Robinstown (Balbradagh)
+,Rochfortbridge
+,Rockcorry
+,Roosky
+,Roscommon
+,Roscrea
+,Rosegreen
+,Rosscahill
+,Rosscarbery
+,Rosses Point
+,Rosslare
+,Rosslare Harbour (Ballygeary; incl. Kilrane)
+,Roundstone
+,Roundwood
+,Rush
+,Saggart
+,Saleen
+,Sallins
+,Scarriff - Tuamgraney
+,Schull
+,Scotshouse
+,Scotstown
+,Shanagarry
+,Shanagolden
+,Shanbally
+,Shanballymore
+,Shannon
+,Shannonbridge
+,Shercock
+,Shillelagh
+,Shinrone
+,Shrule
+,Silvermines
+,Sixmilebridge
+,Skerries
+,Skibbereen
+,Slane
+,Slieverue
+,Sligo
+,Smithborough
+,Sneem
+,Spa
+,Spanish Point
+,Stamullen
+,St. Johnston
+,Stoneyford
+,Stradbally
+,Stradbally
+,Straffan
+,Strandhill
+,Stratford (Stratford-on-Slaney)
+,Strokestown
+,Summerhill
+,Suncroft
+,Swanlinbar
+,Swinford
+,Swords
+,Taghmon
+,Tagoat (Grahormac)
+,Tallanstown
+,Tallow
+,Tarbert
+,Templemore
+,Templetuohy
+,Termonbarry (Tarmonbarry)
+,Termonfeckin
+,The Ballagh
+,The Commons
+,The Swan
+,Thomastown
+,Three Mile House (Cabragh)
+,Thurles
+,Tievebane (Tooban)
+,Timoleague
+,Tinahely
+,Tinryland (Tinriland)
+,Tinure
+,Tipperary
+,Toomevara
+,Toornafulla
+,Tower
+,Tralee
+,Tramore
+,Trim
+,Tuam
+,Tubbercurry
+,Tulla
+,Tullaghan
+,Tullamore
+,Tullow
+,Tullyallen
+,Tulsk
+,Turlough
+,Turloughmore
+,Twomileborris
+,Tyrrellspass
+,Unionhall
+,Urlingford
+,Villierstown
+,Virginia
+,Walsh Island (Coolagary)
+,Waterford
+,Watergrasshill
+,Waterville
+,Westport
+,Wexford
+,Whitechurch
+,Whitegate
+,Whitegate
+,Wicklow
+,Williamstown
+,Woodford
+,Youghal
